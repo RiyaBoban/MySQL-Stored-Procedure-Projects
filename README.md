@@ -1,8 +1,8 @@
-## Stored Procedures for Comprehensive Job Market Analysis
+# Stored Procedures for Comprehensive Job Market Analysis
 
 This repository includes stored procedures designed to provide in-depth insights into the job market. The procedures are crafted to analyze salary trends, total job counts, and identify top job roles based on average salaries. The analysis can be performed for specific parameters such as region, country, job family, job category, company, and industry.
 
-# Stored Procedures:
+## Stored Procedures:
 
 1)**Salary Trend Analysis:**
 
@@ -16,7 +16,7 @@ This repository includes stored procedures designed to provide in-depth insights
 
 + Identify the top 20 job roles with the highest average salaries. This analysis provides valuable insights into lucrative career opportunities.
   
-# How to Use:
+## How to Use:
 
 1)**Connect to Your Database:**
 
