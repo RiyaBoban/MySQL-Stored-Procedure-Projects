@@ -18,7 +18,7 @@ This repository includes stored procedures designed to provide in-depth insights
   
 # How to Use:
 
-1) **Connect to Your Database:**
+1)**Connect to Your Database:**
 
 + Ensure you have the necessary database connection credentials.
   
